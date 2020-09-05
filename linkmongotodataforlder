@@ -1,0 +1,1 @@
+Create a folder called Data (c:\Data) and then open "C:\Program Files\MongoDB\Server\3.4\bin" and open command promt and type "mongod -dbpath C:\data".
